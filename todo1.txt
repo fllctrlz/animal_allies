@@ -14,4 +14,7 @@ change wording for base robot
 Future Todo
  
  Brianna cut design on robot
-	
+Program Main Picture
+Hiearchy Picture
+Robot Attachments(Picture)
+Description of robot attachments
