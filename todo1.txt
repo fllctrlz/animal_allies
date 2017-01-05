@@ -1,20 +1,19 @@
 Todo
 
+Survey Data
 
-Group Picture
-photos for our members
-Find Photo and Bio For Mr.Meingarten
-Get pictures for design
-change wording for attachment details
- change photos of robot building
-change base robot pictures
-change wording for base robot
+Attachment Pic and Description
+New Zone Map
+New Points Per Second Table
+Recording Skit
+Piccture of the Pinder Pet Finder
+Video Of The Pinder Pet Finder In Action
+Pictures of 3D Printing
+Cost Anylasis
 
 
-Future Todo
+
+
+
+
  
- Brianna cut design on robot
-Program Main Picture
-Hiearchy Picture
-Robot Attachments(Picture)
-Description of robot attachments
