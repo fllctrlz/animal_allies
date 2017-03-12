@@ -146,6 +146,15 @@ th.tick-border {
 	border: 1px solid black; 
 }
 
+img.img_buffalo {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:868px;
+	height:222px;
+}
+
 #problem {
 	line-height:30px;
 }
